@@ -5,9 +5,9 @@
 #define WIFI_RESET_TIME       20                   //Time in minutes until restart if WiFi isn't connected
 
 #define DB_ADDRESS            172,17,0,91           //Database server IP address
-#define DB_USER               "klima"               //Database username
-#define DB_PWD                "klima_2020#"         //Database password
-#define DB_DEFAULT            "klimadaten"          //Default database
+#define DB_USER               "xxxxx"               //Database username
+#define DB_PWD                "xxxxxxxxxxx"         //Database password
+#define DB_DEFAULT            "xxxxxxxxxx"          //Default database
 #define STATION_NAME          "Halle_A"             //Name of this station
 #define STATION_ID            6                     //ID of this station
 
